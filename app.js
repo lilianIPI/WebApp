@@ -1,5 +1,5 @@
 function calcul(a, b) {
-  var inutilisee = 0;
+  #var inutilisee = 0;
 
   if (a > 10) {
     return a + b;
